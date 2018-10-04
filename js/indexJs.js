@@ -44,8 +44,16 @@ olNode.appendChild(liNode1);
 olNode.appendChild(liNode2);
 
 divNode.appendChild(olNode);
+
 // ---------------------------------------------
 // Task 5
 // ---------------------------------------------
 
+var imgNode = document.createElement("img");
 
+var srcAttr = document.createAttribute("src");
+srcAttr.value = "http://munsellb.people.cofc.edu/img/prettypicture.jpg";
+
+imgNode.setAttributeNode(srcAttr);
+
+divNode.appendChild(imgNode);

@@ -1,7 +1,7 @@
 # Lab_05
 DOM manipulation
 
-Name: _______________________________________
+Name: Davide Sbetti
 
 ## DUE: 9 Oct 2018 @ 11:59 pm
 
